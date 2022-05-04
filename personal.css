@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(149, 149, 158);
+}
+
+hr {
+    border-style: dashed none none none;
+    width: 40%;
+    border-color: grey;
+    border-width: 10px;
+}
+
+h3 {
+    color: #42038a;
+}
+
+.circle {
+    border-radius: 1000%;
+}
+
+img:hover {
+    color: gold;
+}
